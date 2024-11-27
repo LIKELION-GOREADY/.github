@@ -33,7 +33,7 @@
 ### End Point
 
 ```http
-GET /weather?lat={latitude}&lon={longitude} HTTP/1.1
+GET /weather?lat={latitude}&lon={longitude}
 ```
 
 ### Response Example
@@ -64,7 +64,7 @@ GET /weather?lat={latitude}&lon={longitude} HTTP/1.1
 
 ### End Point
 ```http
-GET /air-quality?lan={latitude}&lon={longitude} HTTP/1.1
+GET /mask?lan={latitude}&lon={longitude}
 ```
 
 ### Response Example
