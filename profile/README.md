@@ -3,7 +3,7 @@
 <br><br>
 
 ## 📌 서비스 소개 - 당신의 외출준비, 탭 2번이면 끝나요!
-
+[외출준비 바로가기](https://goready.site)
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/e4d98b18-f175-480a-b48b-14b3040c0dd8">
 
 
